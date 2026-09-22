@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.906,
+  "f1_por_clase": {
+    "gama_baja": 0.923,
+    "gama_media": 0.864,
+    "gama_alta": 0.933
+  },
+  "n_entrenamiento": 20412,
+  "n_prueba": 5103
+}
